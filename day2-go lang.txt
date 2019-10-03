@@ -1,0 +1,32 @@
+-- type casting 
+-- combine
+-- split 
+-- write into file  
+-- ... - any num of argument can pass
+-- structure , 
+nested structure
+
+-- Value - Int , float , String, boolean, struct 
+-- reference type - slice, map , pointer, channel, function 
+
+-- first class function
+-- function
+-- variadic function
+
+Assignment :
+
+1) Employee Registration - CRUD operation
+  firstname , lastname , DOB, salary details (struc) , rating , variable payout , leaves balance , contact details (struc)
+ 
+2) Calculate net salary -- TDS calculate 
+3) Loss of pay -- if any , then deduct from salary
+4) Appraisal  -- calculate the hike and the ctc ss
+5) Emergency call -- func for contacting emergency 
+6) find close friends for an employee , -- map : id as a key , name as a value
+7) remove close friends when argued -- delete the key,value from close friendlist
+
+
+cmd command -
+
+go build . && ./training 
+go test .

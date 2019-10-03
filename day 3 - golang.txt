@@ -1,0 +1,10 @@
+-- statically type
+-- interface
+-- oops concep-- empty interface is used as a void pointer
+-- interface
+
+
+
+- implement interface with n number of func , and implement n0, n2 by using struct and see what it happen
+- wap which can use all the api of reflect . 
+- * day 2 programme
