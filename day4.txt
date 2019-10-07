@@ -1,0 +1,15 @@
+Defer -- LIFO order 
+Error Handling
+Panic --  built in function that stop the ordinary flow of control
+Recover -- built in function that regains control of a panicking goroutine, 
+	   only useful inside a deferred function 
+
+
+
+
+Assignment :
+
+1) WAP for multiple defer -- LIFO manner .. print the order in which defer is being executed
+2) WAP to implement above topics.
+
+3) Errors package -- personal assignment -- errors godoc
