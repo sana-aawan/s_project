@@ -1,0 +1,10 @@
+Concurrency , Parallelism 
+Goroutine
+Channels - in go provides a connection between two goroutine, allowing them to communicate
+	   Buffered , unbuffered
+Worker pool 
+
+
+Links:
+
+-- read it
